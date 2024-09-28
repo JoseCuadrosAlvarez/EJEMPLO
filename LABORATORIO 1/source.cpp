@@ -55,7 +55,6 @@ public:
         ptr = temp;
         ini--;
         tam--;
-
     };
 
     void print() {
